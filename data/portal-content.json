@@ -1,0 +1,31 @@
+{
+  "home": {
+    "heroTitle": "Out of Time Search - Realtime Command Center for Missing Persons",
+    "heroSubtitle": "Real-time updates, case timelines, reward workflows, and mission-control overlays built to assist families, volunteers, and law enforcement.",
+    "focusNote": "Current priority case: Nancy Guthrie. Our mission is truth, speed, and care for families.",
+    "imagesNote": "Front-page hero images are locally cached for reliability."
+  },
+  "missionControl": {
+    "guide": "Start with Home + Back Door Ring, then enable Vehicle and Possible Routes. Use Ring/Camera Zones to compare exits and only escalate evidence-backed clues.",
+    "evidenceStandard": "Route lines are hypotheses until visual confirmation."
+  },
+  "buildYourCase": {
+    "priorityMessage": "Priority One: teach families and volunteers how a real investigation workflow works.",
+    "partsCount": "8"
+  },
+  "rewardWorkflow": {
+    "summary": "Reward submissions should be evidence-based, auditable, and reviewed by official agency channels."
+  },
+  "didYouKnow": {
+    "summary": "Small timeline corrections can materially change a case outcome."
+  },
+  "agencyContacts": {
+    "summary": "Direct official channels for lead submission. Avoid duplicate non-evidence calls to keep lines clear."
+  },
+  "case": {
+    "nancy": {
+      "nightWindow": "Use night-window timeline context from official/public reports. Avoid incorrect daytime assumptions.",
+      "suspectPolicy": "Only official agency-confirmed suspect entries may be listed as named individuals."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "home",
+    "title": "Home Page Builder",
+    "summary": "Optional admin-managed sections shown on the home page.",
+    "updatedAt": "2026-03-04T22:14:46.974Z",
+    "sections": [
+      {
+        "id": "home-welcome",
+        "type": "text",
+        "title": "Welcome",
+        "content": "Use this section manager to add operational messaging without changing code. Edits appear after publish and cache refresh."
+      }
+    ]
+  },
+  {
+    "slug": "forum",
+    "title": "Forum Front Builder",
+    "summary": "Manage top-of-forum announcements and operational notes.",
+    "updatedAt": "2026-03-04T22:14:46.974Z",
+    "sections": [
+      {
+        "id": "forum-front",
+        "type": "hero",
+        "title": "Forum Front Section",
+        "subtitle": "Welcome, rules, and what we need from contributors."
+      }
+    ]
+  },
+  {
+    "slug": "backend",
+    "title": "Backend Ops Builder",
+    "summary": "Control intro content and KPI context for backend operations page.",
+    "updatedAt": "2026-03-04T22:14:46.974Z",
+    "sections": [
+      {
+        "id": "backend-hero",
+        "type": "hero",
+        "title": "Backend Operations",
+        "subtitle": "Professional SaaS operations panel for integrations, health, and controls."
+      }
+    ]
+  },
+  {
+    "slug": "dashboard",
+    "title": "Dashboard Builder",
+    "summary": "Manage top sections for the user command dashboard.",
+    "updatedAt": "2026-03-04T22:14:46.974Z",
+    "sections": [
+      {
+        "id": "dashboard-note",
+        "type": "text",
+        "title": "Operator Note",
+        "content": "Use this area for announcements, policy notes, and workflow reminders for signed-in users."
+      }
+    ]
+  },
+  {
+    "slug": "cases",
+    "title": "National Cases Builder",
+    "summary": "Manage hero and instruction sections for the national case index.",
+    "updatedAt": "2026-03-04T22:14:46.974Z",
+    "sections": [
+      {
+        "id": "cases-intro",
+        "type": "text",
+        "title": "National Intake Policy",
+        "content": "All case entries should include source attribution and update timestamps before being promoted to operational status."
+      }
+    ]
+  }
+]

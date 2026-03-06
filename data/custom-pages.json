@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "welcome-captain",
+    "title": "Welcome, Captain",
+    "summary": "Use the Admin Studio to add and edit pages.",
+    "heroImage": "/media/case/nancy-cover.jpg",
+    "body": "This page is editable from /admin.\n\nYou can create new pages, add hero images, and update text blocks without touching code.",
+    "updatedAt": "2026-03-04T00:00:00.000Z"
+  }
+]

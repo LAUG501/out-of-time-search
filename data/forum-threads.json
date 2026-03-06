@@ -1,0 +1,19 @@
+[
+  {
+    "id": "0a4f1e3d-4ea7-425a-8bf7-490ddf47586f",
+    "title": "WELCOME TO OUT OF TIME SEARCH A PORTAL DEDICATED TO THE MISSING WHEN IT HAPPEN NEW BREAKS",
+    "body": "THIS IS PART OF MY TEST BUILD SO YOU CAN SEE WHAT WE HAVE COMING",
+    "tags": [
+      "welcome message"
+    ],
+    "caseSlug": "welcome_aboard",
+    "status": "active",
+    "authorId": null,
+    "authorName": "Rachel Rosario",
+    "authorEmail": "rosariorachel.clyde@gmail.com",
+    "createdAt": "2026-03-04T21:43:03.003Z",
+    "updatedAt": "2026-03-04T21:43:03.003Z",
+    "replyCount": 0,
+    "lastReplyAt": null
+  }
+]

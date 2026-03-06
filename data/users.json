@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "c7e37165-d80c-4183-bf01-fa9bc5789b48",
+      "name": "john",
+      "email": "tomodachi501@gmail.com",
+      "passwordHash": "866842b19ad6088131761661303dd6f1:0fc7a98d9bb06e89eb367d16b67d14b5179523be65db83aaae9d3bc4919e673c92e7b58cb6158126e99f199e75e0f60fc127bc58b3475e15a3ddca7b4b005a32",
+      "role": "contributor",
+      "createdAt": "2026-03-04T19:45:24.125Z"
+    }
+  ]
+}
