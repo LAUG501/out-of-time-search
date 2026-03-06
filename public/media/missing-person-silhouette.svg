@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Missing person placeholder">
+  <rect width="480" height="360" fill="#0f172a" />
+  <circle cx="240" cy="120" r="56" fill="#334155" />
+  <path d="M132 306c10-70 54-108 108-108s98 38 108 108" fill="#334155" />
+  <text x="240" y="332" text-anchor="middle" fill="#cbd5e1" font-size="18" font-family="Arial, sans-serif">Photo Withheld Pending Verification</text>
+</svg>
